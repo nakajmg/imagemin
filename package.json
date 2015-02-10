@@ -2,7 +2,6 @@
   "devDependencies": {
     "coffee-script": "^1.9.0",
     "gulp": "^3.8.11",
-    "gulp-image": "^0.5.6",
     "gulp-imagemin": "^2.1.0",
     "imagemin-pngquant": "^4.0.0"
   }
